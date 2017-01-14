@@ -1,0 +1,253 @@
+li
+{
+display:inline;
+color:#000000;
+font-family:"Gill Sans MT";
+letter-spacing:5px;
+font-size:16px;
+margin-left:10px;
+text-shadow: -2px -1px 5px rgba(92, 108, 51, 1);
+}
+.heading {
+	font-family: "Impact";
+	font-weight:bold;
+	font-size:24px;
+	color: #FFFFFF;
+	text-shadow: -2px -1px 5px rgba(92, 108, 51, 1);
+	background-color:#7519FF;
+	width:inherit;
+	height:30px;
+	padding:5px;
+	letter-spacing:5px;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-style:solid;
+	border-color:#7519FF;
+	border-radius: 15px;
+}
+.menu{
+       margin-top:30px;
+	   margin-bottom:20px;
+       background-color:#4DDBFF;
+       border-style:solid;
+	   border-color:#4DDBFF;
+	   border-radius: 15px;
+}
+.content{
+background-color:#E6FAB4;
+font-family:"Arial";
+letter-spacing:2px;
+word-spacing:5px;
+font-size:14px;
+margin-top:30px;
+margin-left:100px;
+margin-right:100px;
+margin-bottom:10px;
+	border-style:solid;
+	border-color:#E6FAB4;
+	border-radius: 15px;
+}
+body{
+background-color:#D1F6FF;
+}
+h4{
+	font-family: "Arial";
+	font-weight:bold;
+	font-size:14px;
+	color: #FFFFFF;
+	padding-left:15px;
+}
+h3{
+	font-family: "Arial";
+	font-weight:bold;
+	font-size:14px;
+	color: #FFFFFF;
+	background-color:#7519FF;
+	width:inherit;
+	height:20px;
+	padding-top:2px;
+	letter-spacing:2px;
+	padding-left:15px;
+	margin-top:100px;
+	  margin-left:300px;
+	 margin-right:900px;
+}
+.loginbox{
+     margin-top:-15px;
+     margin-left:300px;
+	 margin-right:400px;
+     border-width:5px;	
+    border-style:groove;
+	border-color:black;
+	padding-left:10px;
+	background-color:#CCFF99;
+}
+#adminlog,#emplog{
+ font-family: "Arial";
+	font-weight:bold;
+	font-size:14px;
+	color: black;
+}
+h1{
+     margin-top:200px;
+    text-align:center;
+    font-family: "Arial";
+	font-weight:bold;
+	font-size:50px;
+	text-shadow: -2px -1px 5px rgba(92, 108, 51, 1);
+	word-spacing:10px;
+}
+.table{
+   margin-top:25px;
+   margin-left:300px;
+   
+}
+.subhead{
+    font-family: "Arial";
+	font-weight:bold;
+	color:#CC7A29;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 3px solid #CC6600;
+	background-color:#CCFF99;
+	text-align:center;
+	padding:7px;
+	vertical-align:top;
+}
+tr{
+ color:#005C1F;
+ 
+ }
+th{
+ color:#000000;
+
+}
+#form{
+ margin-left:20px;
+ font-weight:bold;
+ font-size:14px;
+}
+.changepwd{
+    font-family: "Arial";
+	font-weight:bold;
+	font-size:14px;
+	color: #FFFFFF;
+	background-color:#7519FF;
+	width:100px;
+	padding-top:2px;
+	letter-spacing:2px;
+	padding-left:15px;
+    margin-left:300px;
+	margin-top:100px;
+	margin-right:900px;
+	margin-bottom:-4px;
+}
+.error{
+   color:red;
+   font-size:20px;
+   font-weight:bold;
+   text-align:center;
+}
+#welcome{
+    text-align:center;
+    font-family: "Arial";
+	font-weight:bold;
+	font-size:50px;
+	text-shadow: -2px -1px 5px rgba(92, 108, 51, 1);
+	word-spacing:10px;
+	margin-top:30px;
+}
+p.desc{
+    font-family: "Arial";
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing:3px;
+	word-spacing:5px;
+	color:#CC7A29;
+	text-align:justify;
+	margin-top:3px;
+	}
+  #watermark{
+    position:absolute;
+    margin-top:10px;
+	margin-left:600px;
+	opacity:0.1;
+}	
+img.bg
+{
+width:inherit;
+height:inherit;
+}
+div.leavetable{
+ margin-left:25px;
+}
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+.email {
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin-right: 8px;
+	margin-top:10px;
+}
+.phone {
+    float: right;
+    margin-left: 500px;
+	margin-top:10px;
+}​
+#del{
+  margin-left:700px;
+}
+.delloginbox{
+     margin-top:-15px;
+     margin-left:500px;
+	 margin-right:490px;
+     border-width:5px;	
+    border-style:groove;
+	border-color:black;
+	padding-left:10px;
+	background-color:#CCFF99;
+}
+#delemp{
+	font-family: "Arial";
+	font-weight:bold;
+	font-size:14px;
+	color: #FFFFFF;
+	background-color:#7519FF;
+	width:inherit;
+	height:20px;
+	padding-top:2px;
+	letter-spacing:2px;
+	padding-left:15px;
+	margin-top:100px;
+	  margin-left:500px;
+	 margin-right:700px;
+}
+.leavetable{
+   margin-top:25px;
+   margin-left:0px;
+   
+}
+.leavehead{
+    font-family: "Arial";
+	font-weight:bold;
+	color:#CC7A29;
+	
+	margin-top:50px;
+	margin-bottom:50px;
+}
